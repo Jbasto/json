@@ -1,14 +1,12 @@
-{
-  "canciones": {
-    "cancion": [
-      {
-        "id": "0zR-mZzLw5Y",
-        "titulo": "La Consentida",
-        "artista": "Fabian Corrales",
-        "inicio": "00:00",
-        "fin": "04:49"
-      },
-      {
+"canciones": [
+        {
+		"id": "0zR-mZzLw5Y",
+		"titulo": "La Consentida",
+		"artista": "Fabian Corrales",
+		"inicio": "00:00",
+		"fin": "04:49"
+		},
+	  {
         "id": "9NeC-R2Lj1U",
         "titulo": "Me la Juego Toda",
         "artista": "Silvestre Dangond",
@@ -23,5 +21,4 @@
         "fin": "03:35"
       }
     ]
-  }
 }
