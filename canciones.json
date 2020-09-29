@@ -1,0 +1,27 @@
+{
+  "canciones": {
+    "cancion": [
+      {
+        "id": "0zR-mZzLw5Y",
+        "titulo": "La Consentida",
+        "artista": "Fabian Corrales",
+        "inicio": "00:00",
+        "fin": "04:49"
+      },
+      {
+        "id": "9NeC-R2Lj1U",
+        "titulo": "Me la Juego Toda",
+        "artista": "Silvestre Dangond",
+        "inicio": "01:21",
+        "fin": "01:49"
+      },
+      {
+        "id": "1Nr_tqkMsJs",
+        "titulo": "Ojos Color Sol",
+        "artista": "Residente",
+        "inicio": "00:00",
+        "fin": "03:35"
+      }
+    ]
+  }
+}
