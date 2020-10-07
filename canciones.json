@@ -1,6 +1,13 @@
 {
   "canciones": [
     {
+      "id": "vR8MEgMTo2M",
+      "titulo": "Que Pensaba Yo",
+      "artista": "Binomio De Oro De América",
+      "inicio": "00:29",
+      "fin": "02:11"
+    },
+	{
       "id": "0zR-mZzLw5Y",
       "titulo": "La Consentida",
       "artista": "Fabian Corrales",
@@ -34,6 +41,48 @@
       "artista": "Lil Silvio & El Vega Ft. Ñejo",
       "inicio": "02:00",
       "fin": "02:40"
+    },
+	{
+      "id": "ayCXeExyJxg",
+      "titulo": "Gotas De Agua Dulce",
+      "artista": "Juanes",
+      "inicio": "00:23",
+      "fin": "01:30"
+    },
+	{
+      "id": "zWjXipKSjdg",
+      "titulo": "Nada Valgo Sin Tu Amor",
+      "artista": "Juanes",
+      "inicio": "00:00",
+      "fin": "01:52"
+    },
+	{
+      "id": "2mY7AFTtYwQ",
+      "titulo": "Favorito",
+      "artista": "Camilo",
+      "inicio": "00:11",
+      "fin": "01:48"
+    },
+	{
+      "id": "WsAJ7VSUtQA",
+      "titulo": "Como Yo",
+      "artista": "Juan Luis Guerra",
+      "inicio": "00:03",
+      "fin": "01:03"
+    },
+	{
+      "id": "srE7nr4xuGI",
+      "titulo": "Sabrás",
+      "artista": "Herencia de Timbiquí",
+      "inicio": "00:00",
+      "fin": "04:12"
+    },
+	{
+      "id": "tucLf0-KSyM",
+      "titulo": "Anoche la Escribí",
+      "artista": "Giovanny Ayala",
+      "inicio": "00:21",
+      "fin": "01:30"
     }
   ]
 }
