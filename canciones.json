@@ -8,6 +8,13 @@
       "fin": "02:11"
     },
 	{
+      "id": "3yBS8HczSgE",
+      "titulo": "Amor Verdadero",
+      "artista": "Fanny Lu, Andrés Cepeda",
+      "inicio": "00:00",
+      "fin": "04:07"
+    },
+	{
       "id": "0zR-mZzLw5Y",
       "titulo": "La Consentida",
       "artista": "Fabian Corrales",
@@ -83,6 +90,13 @@
       "artista": "Giovanny Ayala",
       "inicio": "00:21",
       "fin": "01:30"
+    },
+	{
+      "id": "PuhwyVpBblE",
+      "titulo": "Dime Que Hacer",
+      "artista": "Gabriel Pagan",
+      "inicio": "00:00",
+      "fin": "02:46"
     }
   ]
 }
